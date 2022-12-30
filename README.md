@@ -1,5 +1,5 @@
 # Loyalty-measures
-Different approaches to measuring an ecommerce customer's loyalty. An initial report based on loyalty insights done through analyzing customer's transaction data can be found [here](https://drive.google.com/file/d/15xsNaw4A8VkDBwuShBj_V84xMuNZ37ty/view?usp=sharing)
+Different approaches to measuring an ecommerce customer's loyalty. An initial report based on loyalty insights done through analyzing customer's transaction data can be found [here](https://drive.google.com/file/d/15xsNaw4A8VkDBwuShBj_V84xMuNZ37ty/view?usp=sharing).
 
 ## Algorithms
 1. RFM - The different variations can be in the way recency, frequency and monetary value are calculated. Also can take lifetime value into consideration.  
